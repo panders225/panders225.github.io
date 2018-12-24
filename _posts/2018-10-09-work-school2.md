@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Work + Grad School: A Data Scientist's Survival Guide (Part 1)"
+title: "Work + Grad School: A Data Scientist's Survival Guide (Part 2)"
 date: 2018-10-09
 ---
-This post originally appeared in the Towards Data Science channel on [Medium](https://towardsdatascience.com/work-grad-school-a-data-scientists-survival-guide-part-1-127407b1a6f5)
-
+This post originally appeared on [Medium](https://medium.com/@panderson555/work-grad-school-a-data-scientists-survival-guide-part-2-1efa7d79ca20)
 
 ## Foreward
 _So, you’ve decided you’re doing it._
